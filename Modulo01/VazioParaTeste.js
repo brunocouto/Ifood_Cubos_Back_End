@@ -89,3 +89,4 @@ const quantidadeDoParcelamento = 10;
 
 //valor pago
 const valorPago = 300;
+console.log("que legal ")
