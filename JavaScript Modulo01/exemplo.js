@@ -14,8 +14,3 @@ if (temIngresso === true){
     console.log("barrada por falta de ingresso .");
 }
 
-let soma = 10
-let soma2 = 20
-console.log(soma + soma2 )
-
-
